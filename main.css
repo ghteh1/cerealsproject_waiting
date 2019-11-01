@@ -1,0 +1,28 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ff6100;
+}
+
+#logo {
+  height: 100px;
+  width: auto;
+}
+
+#fun {
+  border-style: none;
+  height: 300px;
+  width: auto;
+}
+
+h1,
+p {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn,
+.btn-warning {
+  color: #000000;
+}
